@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <title>ShreyashFitness - The Best Fitness Gym in Town</title>
+
+    <!-- Link to external CSS and JavaScript -->
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+
+
+</head>
+
+<body class="overflow-x-hidden">
+    <div class="container mx-auto">
+        
+        <!-- Header Section -->
+        <header>
+            <nav class="flex justify-between">
+                <div class="logo font-bold flex items-center text-blue">
+                    <img class="logo-img" src="logo.jpg" alt="Shreyash Fitness Logo" width="50" height="50">
+                    <span>Shreyash Fitness</span>
+                </div>
+
+                <ul class="navbar flex items-center">
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">About</a></li>
+                    <li><a href="#">Services</a></li>
+                    <li><a href="#">Contact Us</a></li>
+                    <li><button class="btn">Join Now</button></li>
+                </ul>
+            </nav>
+            <hr>
+        </header>
+
+        <!-- Main Content Section -->
+        <main class="min-h-screen">
+            <section class="section1">
+                <div class="flex">
+                    <div class="topleft flex flex-col justify-center px-2">
+                        <div class="text-center">
+                            <img class="dumbellimg" src="dumb.jpg" alt="Dumbbell" width="300">
+                        </div>
+
+                        <h1 class="my-1 text-center">The Best Fitness Gym in the Town is Here</h1>
+                        <p class="text-center">"Be More. Do More. Lift More."</p>
+
+                        <!-- Countdown Timer Section -->
+                        <p class="deal text-center">The deal ends in <span id="demo"></span></p>
+
+                        <div class="buttons text-center">
+                            <button class="btn">Join Now</button>
+                            <button class="btn">Contact Us</button>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <hr>
+
+            <!-- Pricing Section -->
+            <section class="section2">
+                <h1 class="text-center my-2">Pricing</h1>
+
+                <div class="boxes flex justify-center">
+                    <div class="box">
+                        <h2>Basic Membership</h2>
+                        <ul>
+                            <li class="highlighted">₹999/month</li>
+                            <li class="features">Access to gym facilities during off-peak hours</li>
+                            <li class="features">Use of cardio and strength equipment</li>
+                            <li class="features">Locker room access</li>
+                        </ul>
+                    </div>
+
+                    <div class="box">
+                        <h2>Standard Membership Plan</h2>
+                        <ul>
+                            <li class="highlighted">₹1,499/month</li>
+                            <li class="features">Unlimited access to gym facilities</li>
+                            <li class="features">Group classes (Yoga, Zumba, HIIT)</li>
+                            <li class="features">1 free personal training session per month</li>
+                            <li class="features">Sauna and locker room access</li>
+                        </ul>
+                    </div>
+                </div>
+            </section>
+
+            <hr>
+        </main>
+
+        <!-- Footer Section -->
+        <footer class="text-center">
+            <p>Copyright &copy; 2024 ShreyashFitness.com | All rights reserved.</p>
+        </footer>
+    </div>
+
+    <script>
+        // Countdown Timer Script
+        const countdownDate = new Date("Oct 31, 2024 23:59:59").getTime();
+
+        const x = setInterval(() => {
+            const now = new Date().getTime();
+            const distance = countdownDate - now;
+
+            const days = Math.floor(distance / (1000 * 60 * 60 * 24));
+            const hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+            const minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+            const seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+            document.getElementById("demo").innerHTML = `${days}d ${hours}h ${minutes}m ${seconds}s`;
+
+            if (distance < 0) {
+                clearInterval(x);
+                document.getElementById("demo").innerHTML = "Deal Expired";
+            }
+        }, 1000);
+    </script>
+</body>
+<canvas> <div class="section1">
+    <canvas id="three-canvas"></canvas> 
+    <img class="dumbellimg" src="dumb.jpg" alt="Dumbbell">
+    <h1>The best fitness Gym in the town is here</h1>
+    <p>"Be More. Do More. Lift More."</p>
+    <p class="deal">The deal ends in <span id="demo"></span></p>
+    <div class="buttons">
+        <button class="btn">Join now</button>
+        <button class="btn">Contact Us</button>
+    </div>
+</div>
+</canvas>
+
+</html>
