@@ -14,7 +14,7 @@ A passionate coder
 
 [![Hackerrank](https://img.shields.io/badge/Hackerrank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white)]([https://hackerrank.com/your-profile](https://www.hackerrank.com/profile/shreyashsatadeve))   
 
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/your-username](https://github.com/Shrey3satdeve ))   
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/your-username](https://github.com/Shrey3satdeve )   
 
 ---
 
