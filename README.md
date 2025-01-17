@@ -9,7 +9,6 @@ A passionate coder
 
 ### Connect with me:  
 [![LinkedIn]https://www.linkedin.com/in/shreyash-satadeve/
-
 [![Instagram]https://www.instagram.com/shreyash_satadeve/  
 [![Hackerrank]https://www.hackerrank.com/profile/shreyashsatadeve  
 [![GitHub]https://github.com/Shrey3satdeve  
