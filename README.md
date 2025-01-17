@@ -1,8 +1,8 @@
 # Hello, I'm Shreyash Satadeve  
 A passionate coder  
 
-- 🌱 I’m currently learning **Java and Flutter**  
-- 📫 How to reach me: **your-email@example.com**  
+- 🌱 I’m currently learning : HTML,CSS and javascript and React 
+- 📫 How to reach me: shreyashsatadeve@gmail.com  
 - ⚡ Fun fact: *I'm just a chill coder with a love for solving challenges!*  
 
 ---
