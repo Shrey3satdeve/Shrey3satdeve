@@ -8,10 +8,10 @@ A passionate coder
 ---
 
 ### Connect with me:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-profile)  
-[![Hackerrank](https://img.shields.io/badge/Hackerrank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/your-profile)  
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)  
+[![LinkedIn]https://www.linkedin.com/in/shreyash-satadeve/ 
+[![Instagram]https://www.instagram.com/shreyash_satadeve/  
+[![Hackerrank]https://www.hackerrank.com/profile/shreyashsatadeve  
+[![GitHub]https://github.com/Shrey3satdeve  
 
 ---
 
@@ -34,13 +34,8 @@ A passionate coder
 
 ---
 
-**Note**: Replace `your-username`, `your-email@example.com`, and profile links with your actual details.  
+ 
 
 ---
 
-### **3. Optional Enhancements**
-1. Use custom shields for tools and frameworks.
-2. Add an activity graph using the `github-readme-activity-graph` widget.
-3. Keep updating the README as your skills evolve.
 
-Let me know if you need any help setting it up or customizing further!
