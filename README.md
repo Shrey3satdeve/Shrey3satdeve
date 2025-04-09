@@ -40,6 +40,11 @@ A passionate coder
 
 
 ---
+![Shreyash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shrey3satdeve&show_icons=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Shrey3satdeve&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shrey3satdeve&layout=compact&theme=radical)
 
  
 
